@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/08/06 12:14:41.881,=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/08/06 12:15:21.634,C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\FrmInicial.dfm=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2018/08/06 12:15:21.634,C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\FrmInicial.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/08/06 12:15:34.834,C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\ProjetoPromocao.dproj=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2018/08/06 12:15:44.595,=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\Unit1.pas</Transaction>
+    <Transaction>2018/08/06 12:16:16.023,=C:\Projetos\Comum\unPromoCore.pas</Transaction>
+    <Transaction>2018/08/06 12:22:10.118,C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\Acumulo.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\Unit1.pas</Transaction>
+    <Transaction>2018/08/06 12:22:21.929,=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\Unit1.pas</Transaction>
+    <Transaction>2018/08/06 12:22:32.342,C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\ItemVenda.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Projects\ProjetoPromocao\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
