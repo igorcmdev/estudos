@@ -87,9 +87,11 @@
             <Form>Form3</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="Acumulo.pas"/>
-        <DCCReference Include="C:\Projetos\Comum\unPromoCore.pas"/>
-        <DCCReference Include="ItemVenda.pas"/>
+        <DCCReference Include="UnAcumulo.pas"/>
+        <DCCReference Include="UnItemVenda.pas"/>
+        <DCCReference Include="unPromoCore.pas"/>
+        <DCCReference Include="UnCabecalhoVenda.pas"/>
+        <DCCReference Include="UnVenda.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
