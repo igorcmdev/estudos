@@ -13,6 +13,16 @@ type
     btnCancelar: TButton;
     btnFinalizaVenda: TButton;
     pnlBotoes: TPanel;
+    Panel1: TPanel;
+    GroupBox1: TGroupBox;
+    edtCodigoProduto: TEdit;
+    edtValor: TEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    btnAdicionarProduto: TButton;
+    btnRemoverProduto: TButton;
+    Label4: TLabel;
+    Memo1: TMemo;
   private
     { Private declarations }
   public
