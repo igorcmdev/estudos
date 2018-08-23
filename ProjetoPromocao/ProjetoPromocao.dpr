@@ -7,7 +7,8 @@ uses
   UnItemVenda in 'UnItemVenda.pas',
   unPromoCore in 'unPromoCore.pas',
   UnCabecalhoVenda in 'UnCabecalhoVenda.pas',
-  UnVenda in 'UnVenda.pas';
+  UnVenda in 'UnVenda.pas',
+  UnProduto in 'UnProduto.pas';
 
 {$R *.res}
 

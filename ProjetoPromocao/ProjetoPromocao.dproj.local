@@ -18,6 +18,8 @@
     <Transaction>2018/08/07 12:23:24.000.142,C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\Acumulo.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\UnAcumulo.pas</Transaction>
     <Transaction>2018/08/07 12:23:44.000.150,=C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\Unit1.pas</Transaction>
     <Transaction>2018/08/07 12:23:59.000.465,C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\Unit1.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\UnVenda.pas</Transaction>
+    <Transaction>2018/08/23 12:22:47.061,=C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 12:45:58.892,C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\UnProduto.pas=C:\Users\igorsoares\Documents\Embarcadero\Studio\Estudos\ProjetoPromocao\Unit1.pas</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="FrmInicial.pas"/>
@@ -27,5 +29,6 @@
     <File Path="UnItemVenda.pas"/>
     <File Path="unPromoCore.pas"/>
     <File Path="UnVenda.pas"/>
+    <File Path="UnProduto.pas"/>
   </ProjectSortOrder>
 </BorlandProject>
